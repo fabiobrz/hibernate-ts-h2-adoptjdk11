@@ -39,3 +39,6 @@ JAVA_HOME=~/.sdkman/candidates/java/11.0.6.j9-adpt
 ```
 <JBOSS_HOME>/bin/standalone.sh
 ```
+
+### Acess the servlet to verify that assertions are properly reported and no exception is occurring
+Go to http://localhost:8080/hibernate-ts-h2-adoptjdk11/test
