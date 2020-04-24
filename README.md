@@ -4,6 +4,7 @@ Reproducer for Hibernate ORM issues using H2 when running on Adopt OpenJDK 11.0.
 ## Steps to reproduce
 
 ### Get a Wildfly/JBoss distribution you want to test with
+https://wildfly.org/downloads/
 
 ### Clone this repo
 ```
