@@ -1,0 +1,11 @@
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/cache/CachingRegionFactory.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/h2/typeoverride/ProgrammaticallyConfiguredTestService.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/cache/MapStorageAccessImpl.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/h2/typeoverride/ProgrammaticallyConfiguredEntityTestService.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/utils/TransactionUtil2.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/h2/DefaultDialect.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/utils/TransactionUtil.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/typeoverride/model/Entity.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/utils/Helper.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/sources/typeoverride/StoredPrefixedStringType.java
+/home/fburzigo/projects/git/fjuma/adoptjdk11-h8-ts-issues-repro/src/main/java/org/jboss/repro/h8/orm/ts/h2/typeoverride/TestServlet.java
